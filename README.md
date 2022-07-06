@@ -1,2 +1,2 @@
 # CMSC376-Machine-Learning-
-This is a 
+This is a ML course at University of Chicago statistics department. 
